@@ -20,6 +20,7 @@ My strengths are perseverance and perseverance, I can sit for hours at a problem
 
 My goal is getting a lot of useful information from this course to become a good specialist. Also, I want to find a job which will bring something new into my life, as well as to find colleagues, like-minded people and new friends.
 
+---
 
 ## Skills:
 
@@ -29,3 +30,55 @@ My goal is getting a lot of useful information from this course to become a good
 * JavaScript(Basic)
 * Git
 * VS CODE
+
+---
+
+## Code Example:
+
+This code outputs a pyramid of asterisks
+
+
+```Javascript
+const lines = 5;
+let result = '';
+
+for (let i = 0; i <= lines; i++) {
+
+  for (let j = 0; j < lines - i; j++) {
+    result += ' ';
+  }
+
+  for (let k = 0; k < 2 * i + 1; k++) {
+    result += '*';
+  }
+
+  result += '\n';
+
+}
+console.log(result);
+
+```
+
+---
+
+## Educational Experience and Achievements
+
+* [TechOnline - Educational project](https://rudakovilya.github.io/TechOnline-LandingPage/home.html)
+
+* [GoCorona - Educational project](https://github.com/RudakovIlya/GoCorona-LandingPage)
+
+* [Healthy Switcher - Educational project](https://rudakovilya.github.io/lesson_17Adaptive/)
+
+---
+
+## Courses
+
+1. Simulators for layout on [HTML-ACADEMY](https://htmlacademy.ru/courses)
+2. [FREECODECAMP](https://www.freecodecamp.org/learn/2022/responsive-web-design) - Responsive Web Design
+3. Сourse on layout from a [Freelancer for lifestyle](https://edu.fls.guru/) (in progress)
+
+---
+## Languages
+
+* Russian - Native
+* English - Pre-Intermediate
