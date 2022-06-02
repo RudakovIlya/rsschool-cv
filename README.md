@@ -1,2 +1,2 @@
 # rsschool-cv
- https://GITHUB-USERNAME.github.io/rsschool-cv/
+ https://RudakovIlya.github.io/rsschool-cv/
