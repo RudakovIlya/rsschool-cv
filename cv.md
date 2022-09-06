@@ -22,5 +22,57 @@ My goal is getting a lot of useful information from this course to become a good
 
 ---
 
+## Skills:
 
+* HTML5, CSS3(BEM)
+* SASS,SCSS
+* FIGMA
+* JavaScript(Basic)
+* Git
+* VS CODE
+
+---
+
+
+## Code Example:
+
+This code outputs a pyramid of asterisks
+
+
+```Javascript
+
+const lines = 5;
+let result = '';
+
+for (let i = 0; i <= lines; i++) {
+
+  for (let j = 0; j < lines - i; j++) {
+    result += ' ';
+  }
+
+  for (let k = 0; k < 2 * i + 1; k++) {
+    result += '*';
+  }
+
+  result += '\n';
+
+}
+console.log(result);
+
+```
+---
+
+## Educational Experience and Achievements
+
+* [TechOnline - Educational project](https://rudakovilya.github.io/TechOnline-LandingPage/home.html)
+
+* [GoCorona - Educational project](https://rudakovilya.github.io/GoCorona-LandingPage/)
+
+* [Healthy Switcher - Educational project](https://rudakovilya.github.io/lesson_17Adaptive/)
+
+* [Travel - Educational project](https://rudakovilya.github.io/travel/)
+
+* [Pulse - Educational project](https://rudakovilya.ru/)
+
+---
 
