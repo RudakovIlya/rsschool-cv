@@ -74,13 +74,17 @@ console.log(result);
 - [Pulse - Educational project](https://rudakovilya.ru/)
 
 - [Learning cards - Educational project](https://rudakovilya.github.io/cards/)
+-
+- [Learning cards - Educational project](https://rudakovilya.github.io/cards/)
 
 ---
 
 ## Courses
 
 1. Simulators for layout on [HTML-ACADEMY](https://htmlacademy.ru/courses)
+
 2. [FREECODECAMP](https://www.freecodecamp.org/learn/2022/responsive-web-design) - Responsive Web Design
+
 3. Сourse on layout from a [Freelancer for lifestyle](https://edu.fls.guru/)
 
 ---
