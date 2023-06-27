@@ -81,7 +81,7 @@ console.log(result);
 
 1. Simulators for layout on [HTML-ACADEMY](https://htmlacademy.ru/courses)
 2. [FREECODECAMP](https://www.freecodecamp.org/learn/2022/responsive-web-design) - Responsive Web Design
-3. Сourse on layout from a [Freelancer for lifestyle](https://edu.fls.guru/) (in progress)
+3. Сourse on layout from a [Freelancer for lifestyle](https://edu.fls.guru/)
 
 ---
 
