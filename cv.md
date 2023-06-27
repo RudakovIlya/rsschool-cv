@@ -72,7 +72,7 @@ console.log(result);
 - [Travel - Educational project](https://rudakovilya.github.io/travel/)
 
 - [Pulse - Educational project](https://rudakovilya.ru/)
--
+
 - [Learning cards - Educational project](https://rudakovilya.github.io/cards/)
 
 ---
