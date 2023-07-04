@@ -30,6 +30,9 @@ My goal is getting a lot of useful information from this course to become a good
 - JavaScript(Basic)
 - Git
 - VS CODE
+- React
+- Typescript
+- Redux
 
 ---
 
