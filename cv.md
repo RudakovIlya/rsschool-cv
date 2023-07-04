@@ -28,10 +28,11 @@ My goal is getting a lot of useful information from this course to become a good
 - SASS,SCSS
 - FIGMA
 - JavaScript(Basic)
-
 - Git
-
 - VS CODE
+- React
+- Typescript
+- Redux
 
 ---
 
@@ -75,8 +76,6 @@ console.log(result);
 
 - [Pulse - Educational project](https://rudakovilya.ru/)
 
-- [Learning cards - Educational project](https://rudakovilya.github.io/cards/)
--
 - [Learning cards - Educational project](https://rudakovilya.github.io/cards/)
 
 ---
